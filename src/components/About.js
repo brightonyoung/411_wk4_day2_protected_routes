@@ -32,6 +32,7 @@ class About extends Component {
                         about many different models, all in one place. We had
                         to use the word "Fake" in our name so that we don't 
                         get sued by the real&nbsp; 
+                        // eslint-disable-next-line
                         <a style={{ color: 'mediumblue' }}
                         href="https://www.cars.com"
                         target="_blank">Cars.com</a>
