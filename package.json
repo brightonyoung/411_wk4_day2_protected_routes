@@ -32,5 +32,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Clone this repo and run `npm i` and then `npm start`",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brightonyoung/411_wk4_day2_protected_routes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brightonyoung/411_wk4_day2_protected_routes/issues"
+  },
+  "homepage": "https://github.com/brightonyoung/411_wk4_day2_protected_routes#readme"
 }
