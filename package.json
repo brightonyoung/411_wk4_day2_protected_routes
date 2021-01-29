@@ -2,7 +2,7 @@
   "name": "411_wk4_day1_react_router",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/brightonyoung/411_wk4_day2_protected_routes.git",
+  "homepage": "https://github.com/brightonyoung/411_wk4_day2_protected_routes#readme",
   "dependencies": {
     "@material-ui/core": "^4.3.2",
     "@material-ui/icons": "^4.2.1",
@@ -15,7 +15,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy" : "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -47,6 +47,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/brightonyoung/411_wk4_day2_protected_routes/issues"
-  },
-  "homepage": "https://github.com/brightonyoung/411_wk4_day2_protected_routes#readme"
+  }
 }

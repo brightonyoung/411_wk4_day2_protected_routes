@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/brightonyoung/411_wk4_day2_protected_routesstatic/css/main.2c927e03.chunk.css",
+    "main.js": "/brightonyoung/411_wk4_day2_protected_routesstatic/js/main.2e4c5146.chunk.js",
+    "main.js.map": "/brightonyoung/411_wk4_day2_protected_routesstatic/js/main.2e4c5146.chunk.js.map",
+    "runtime-main.js": "/brightonyoung/411_wk4_day2_protected_routesstatic/js/runtime-main.2aebb688.js",
+    "runtime-main.js.map": "/brightonyoung/411_wk4_day2_protected_routesstatic/js/runtime-main.2aebb688.js.map",
+    "static/js/2.014f1c85.chunk.js": "/brightonyoung/411_wk4_day2_protected_routesstatic/js/2.014f1c85.chunk.js",
+    "static/js/2.014f1c85.chunk.js.map": "/brightonyoung/411_wk4_day2_protected_routesstatic/js/2.014f1c85.chunk.js.map",
+    "index.html": "/brightonyoung/411_wk4_day2_protected_routesindex.html",
+    "static/css/main.2c927e03.chunk.css.map": "/brightonyoung/411_wk4_day2_protected_routesstatic/css/main.2c927e03.chunk.css.map",
+    "static/js/2.014f1c85.chunk.js.LICENSE.txt": "/brightonyoung/411_wk4_day2_protected_routesstatic/js/2.014f1c85.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2aebb688.js",
+    "static/js/2.014f1c85.chunk.js",
+    "static/css/main.2c927e03.chunk.css",
+    "static/js/main.2e4c5146.chunk.js"
+  ]
+}
